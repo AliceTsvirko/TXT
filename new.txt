@@ -1,0 +1,4 @@
+1.Name Surname:Alesya Tsvirko
+2.Age:26
+3.Domestic animals:1 cat
+4.Salary:600$
